@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
 
         println("THIS IS Secoond commit")
 
-        print("Change 3")
+        print("Another change")
 
         print("For merge")
     }
